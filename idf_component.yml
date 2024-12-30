@@ -1,0 +1,7 @@
+description: Ultralytics YOLO utilities for Espressif chips
+url: https://github.com/ShardulNalegave/esp-yolo
+repository: https://github.com/ShardulNalegave/esp-yolo.git
+issues: https://github.com/ShardulNalegave/esp-yolo/issues
+files:
+  exclude:
+    - test_app
