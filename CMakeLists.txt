@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 
 set(c_srcs
     "src/esp_yolo.c"
+    "src/esp_yolo_model.cc"
 )
 
 set(priv_includes "src")

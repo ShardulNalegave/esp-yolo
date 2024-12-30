@@ -2,7 +2,7 @@
     "C_Cpp.intelliSenseEngine": "default",
     "idf.espIdfPath": "/Users/esp/esp/esp-idf",
     "idf.openOcdConfigs": [
-        "board/esp32-wrover-kit-3.3v.cfg"
+        "board/esp32s3-builtin.cfg"
     ],
     "idf.port": "/dev/tty.BLTH",
     "idf.toolsPath": "/Users/esp/.espressif"
